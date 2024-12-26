@@ -1,6 +1,10 @@
 
 selfdrive
 ==================
+
+[![DOI](https://zenodo.org/badge/187331360.svg)](https://doi.org/10.5281/zenodo.14558106)
+
+
 ![driving](drivingman.gif)
 ## Install:
 <pre>
